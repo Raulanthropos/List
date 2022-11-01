@@ -10,4 +10,4 @@ Layout is as simple as it could be. Centered elements, being a header, an input 
 
 Once the user finishes inputting the list item, they can click the button to add it to their list. For better UX, user can alternatively simply press the "Enter" key for the same result.
 
-#### Link for the project: https://list-76k.pages.dev/
+#### Link to the project: https://list-76k.pages.dev/
